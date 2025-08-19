@@ -5,6 +5,6 @@ Neste projeto utilizamos botões de navegação que fornecem navegabilidade, seg
 Para criação do projeto utilizou-se diferentes tipos de gráficos. Respodendo algumas perguntas sobre a base de dados.
 - Total de Vendas;
 - Distribuição das vendas por mês;
-- Pais com maiores vendas;
+- Paises com maiores vendas;
  
 [Desafio_Power_BI_DIO.pdf](https://github.com/user-attachments/files/21847587/Desafio_Power_BI_DIO.pdf)
